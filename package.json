@@ -1,0 +1,22 @@
+{
+  "name": "server_javascript",
+  "version": "1.0.0",
+  "description": "server javascript tutorials",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentalK94/nodejs-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mentalK94/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/mentalK94/nodejs-tutorial#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
